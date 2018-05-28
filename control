@@ -1,0 +1,9 @@
+Package: com.wang.colorfulscreenshots
+Name: ColorfulScreenShots
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A colorful screenshot plug-in!
+Maintainer: wangyu
+Author: wangyu
+Section: Tweaks
